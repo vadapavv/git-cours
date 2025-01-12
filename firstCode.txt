@@ -1,3 +1,5 @@
 hello world !!!
 take input from users
 add the values
+
+sumbmet data in data base
