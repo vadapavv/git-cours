@@ -1,2 +1,0 @@
-username = dilip
-paswword =88455
